@@ -1,0 +1,9 @@
+D:\PersonalProjects\ClothShopping\ClothShoppingSite\Services.ClothShoppingSite\bin\Debug\netcoreapp3.1\Services.ClothShoppingSite.deps.json
+D:\PersonalProjects\ClothShopping\ClothShoppingSite\Services.ClothShoppingSite\bin\Debug\netcoreapp3.1\Services.ClothShoppingSite.dll
+D:\PersonalProjects\ClothShopping\ClothShoppingSite\Services.ClothShoppingSite\bin\Debug\netcoreapp3.1\Services.ClothShoppingSite.pdb
+D:\PersonalProjects\ClothShopping\ClothShoppingSite\Services.ClothShoppingSite\obj\Debug\netcoreapp3.1\Services.ClothShoppingSite.csprojAssemblyReference.cache
+D:\PersonalProjects\ClothShopping\ClothShoppingSite\Services.ClothShoppingSite\obj\Debug\netcoreapp3.1\Services.ClothShoppingSite.AssemblyInfoInputs.cache
+D:\PersonalProjects\ClothShopping\ClothShoppingSite\Services.ClothShoppingSite\obj\Debug\netcoreapp3.1\Services.ClothShoppingSite.AssemblyInfo.cs
+D:\PersonalProjects\ClothShopping\ClothShoppingSite\Services.ClothShoppingSite\obj\Debug\netcoreapp3.1\Services.ClothShoppingSite.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\ClothShopping\ClothShoppingSite\Services.ClothShoppingSite\obj\Debug\netcoreapp3.1\Services.ClothShoppingSite.dll
+D:\PersonalProjects\ClothShopping\ClothShoppingSite\Services.ClothShoppingSite\obj\Debug\netcoreapp3.1\Services.ClothShoppingSite.pdb
